@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376334542000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values-v14/styles.xml
+1376341576000 466 1a6937237164597667915911ee23ccf437824a44 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/layout/activity_recipe_list.xml
+1376334542000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values/styles.xml
+1376334542000 374 58aa5e1faae6370cadd271a32f4fa33620be8748 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values-large/refs.xml
+1376334542000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values-v11/styles.xml
+1376334542000 329 5dedba24cd75aad9aa45cf5160711fb73ca4c384 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/layout/activity_recipe_detail.xml
+1376334542000 182 04a1deef57919d1407a350893a03dbbcbc20fc6e /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values/strings.xml
+1376415648000 1359 6a6c84bab7b8f13bbd730538839cc42ee8d16d8c /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/layout/row_recipe.xml
+1376334542000 1449 9153574163fb8f3b9a07803ee53cfddcbd6f0f12 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/drawable-xhdpi/ic_launcher.png
+1376418537000 344 2c4d51f1ea914e82763445756e630ea4f168eaf7 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/layout/fragment_recipe_detail.xml
+1376334542000 690 6eff899be3396a7997b304d03e6c905deb538ae5 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/drawable-mdpi/ic_launcher.png
+1376334542000 1386 2c81f9b6092dc7abdc8e8359b893a166eeee03d5 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/layout/activity_recipe_twopane.xml
+1376334542000 374 58aa5e1faae6370cadd271a32f4fa33620be8748 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values-sw600dp/refs.xml
+1376334542000 2256 65cd083f3d939728904065a509c96a2df5d627aa /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/drawable-xxhdpi/ic_launcher.png
+1376428060000 444 a63a5075e96714d70fb8d28e07404052abbd932c /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/layout/fragment_recipe_list.xml
+1376334542000 1027 59fde4ed351fedd182430606f800edab94b006b2 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/drawable-hdpi/ic_launcher.png

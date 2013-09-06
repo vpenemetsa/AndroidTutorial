@@ -1,0 +1,26 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371048220000 190432 a60a5e993c98c864010053cb901b7eab25306568 /Users/vpenemetsa/.gradle/caches/artifacts-24/filestore/com.google.code.gson/gson/2.2.4/jar/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar
+1378248375000 363 c2bb7a6c4f9c944accd2047fd1e57a2cc6b3d028 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/BuildConfig.class
+1371048220000 186247 e132d929bd181941f79b0d63edafb8a86ae6fd33 /Users/vpenemetsa/.gradle/caches/artifacts-24/filestore/org.springframework.android/spring-android-rest-template/1.0.1.RELEASE/jar/e132d929bd181941f79b0d63edafb8a86ae6fd33/spring-android-rest-template-1.0.1.RELEASE.jar
+1378248373000 1385 c997d0960f12a3dcc46ca4370d6d24c8108e47d0 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/ImageCache.class
+1378248373000 3059 88e4180eb84767fdb578e0804e64bfda74d3f384 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeAdapter.class
+1378248375000 458 e38784586cc7a808289ab4debe9c8d7cb4329248 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R$style.class
+1378248373000 2480 6c563a8c69d445f5f18be142b8207f19e8295817 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeAdapter$DownloadImageTask.class
+1378248375000 2534 1431f6f4e6d04eb7e115b12267173dd559fc5e56 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeListFragment.class
+1378248374000 2213 5e36aa93553c93bd5c97d29b96b93c47bb927b78 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeDetailActivity.class
+1378248375000 468 2af1b5d61bda3006e444e276783e74f031fe0610 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R$string.class
+1378248374000 1842 6a386b7b5f9ec6f52dc38d04f6dfcab1cccada1a /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeDetailFragment.class
+1378248374000 2074 0dd785f61f0090d419549781d5401f091308201c /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeListActivity.class
+1371048220000 113156 e68f0e8e4b636ee30c4de58953be38d9b72a5e3b /Users/vpenemetsa/.gradle/caches/artifacts-24/filestore/org.springframework.android/spring-android-core/1.0.1.RELEASE/jar/e68f0e8e4b636ee30c4de58953be38d9b72a5e3b/spring-android-core-1.0.1.RELEASE.jar
+1378248373000 1304 1f9027718ed88232c8add9f7cf6e255b76248cd6 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/api/Recipe.class
+1378248375000 10806 63bb52c612f5e1dfdcc003428aff8dd2926a642b /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/dummy/DummyContent.class
+1378248375000 367 ff4a7acdfa4645923b39848cfa1e3f1f6fac25c6 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R$attr.class
+1378248375000 618 bbe911de9c26bbe3203e8ba654e365108a994ebf /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R$id.class
+1376927946000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1378248375000 434 a9e026a8093ddc6abf799a7297e792753599d7a8 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R$drawable.class
+1378248375000 654 bb3f5379692f5d85327cb2183e5e168d30e923b4 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R$layout.class
+1378248374000 2130 c1602a9e91e2ab63aa219821a0f799d6307075d3 /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeListFragment$1.class
+1378248373000 671 bcd2403cfa8cf0c24177a5c45065aeb4d6deb6ce /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/RecipeAdapter$ViewHolder.class
+1378248375000 655 2cb3e3b1f0ffab726e1914b81ba0c509b4b7694f /Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/build/classes/debug/com/example/androidtutorial/R.class

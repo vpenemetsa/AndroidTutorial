@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/vpenemetsa/AndroidStudioProjects/AndroidTutorialProject/AndroidTutorial/src/main/res/values-sw600dp/refs.xml -->
+    <item name="activity_recipe_list" type="layout">@layout/activity_recipe_twopane</item>
+
+</resources>
