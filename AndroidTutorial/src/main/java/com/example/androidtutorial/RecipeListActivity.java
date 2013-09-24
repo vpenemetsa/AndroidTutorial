@@ -21,6 +21,8 @@ public class RecipeListActivity extends FragmentActivity {
             mTwoPane = true;
         }
 
+
+
     }
 
     protected boolean getDeviceType() {
